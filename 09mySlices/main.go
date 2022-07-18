@@ -24,7 +24,7 @@ func main() {
 	fmt.Println("[:3]",fruitList3)
 
 
-	highScore := make([]int, 4)
+	highScore := make([]int, 4)//map
 	highScore[0] = 234
 	highScore[1] = 945
 	highScore[2] = 465
