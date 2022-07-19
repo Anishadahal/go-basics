@@ -7,10 +7,9 @@ import (
 
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
-	"go.mongodb.org/mongo-driver/x/mongo/driver/mongocrypt/options"
 )
 
-const connectionString = "mongodb+srv://anisha:fZ3r3omcugd6GYWZ@cluster0.6xqcepp.mongodb.net/?retryWrites=true&w=majority"
+const connectionString = "mongodb+srv://anisha:anisha@cluster0.6xqcepp.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 const dbName = "netflix"
 const colName = "watchlist"
 
