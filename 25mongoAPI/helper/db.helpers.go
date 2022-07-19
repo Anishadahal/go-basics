@@ -9,8 +9,6 @@ import (
 	"github.com/Anishadahal/mongoAPI/model"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
-	// "go.mongodb.org/mongo-driver/mongo/options"
-	// "go.mongodb.org/mongo-driver/mongo/options"
 )
 
 //insert one record
